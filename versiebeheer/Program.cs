@@ -10,6 +10,7 @@ namespace versiebeheer
     {
         static void Main(string[] args)
         {
+            Console.WriteLine( "heelo");
         }
     }
 }
